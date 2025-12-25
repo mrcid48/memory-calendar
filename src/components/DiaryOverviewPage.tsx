@@ -33,14 +33,15 @@ export const DiaryOverviewPage = ({ isActive }: DiaryOverviewPageProps) => {
           {/* Introduction text */}
           <div className="bg-amber-50/50 rounded-lg p-3 sm:p-4 md:p-5 mb-4 sm:mb-6">
             <p className="font-serif text-diary-ink/80 text-xs sm:text-sm md:text-base leading-relaxed first-letter:text-xl first-letter:sm:text-2xl first-letter:md:text-3xl first-letter:font-script first-letter:float-left first-letter:mr-1 first-letter:text-diary-gold">
-              This diary holds the story of us — every laugh, every adventure, every quiet moment that made this year unforgettable. Flip through these pages and relive the memories we created together, month by month, season by season.
+              2025 12 months, 365 days, 8760 hours, 525600 minutes sunne mai toh bhaut lamba time lagta hai...par actual mai tha nhi...Is saal toh pta hi ni lga pura saal kya chalta rha mind mai na time ka kuch pta lga...kb January se December se b puch gya. Aur ab toh phir January aa gya...Kuch jada yaad b nhi hai is saal ke bara mai bs asa lagta hai ya year bs sikhna ka liya aaya tha. Dono ko hi IS year ne bhaut kuch sikha diya bhaut kuch experience karwaya..bhaut kuch asa jo kabhi hm toh nhi chata tha. Jada kuch likhna ni chata is year ke bara mai shayd isliya website hi bna rha hu. Koshish krunga ki ya padh kr apko bs achi cheeza hi yaad aaya is year ke bara mai. Aur umeed bhi ki ye year hi hum dono ki life ka worst year rhe...2026 Apki life mai sirf khushiya hi khushiya le kr aaya aur one of the best year bn jai apki life ka.
+              May you always be happy and smiling. Happy New Year ! have a wonderful year ahead!!
             </p>
           </div>
           
           {/* Dedication */}
           <div className="text-center mt-auto">
             <p className="font-script text-lg sm:text-xl md:text-2xl text-diary-ink/70 italic">
-              "To us, and the beautiful journey we share"
+              "Start Your Journey With a Big Smile and a Happy Face"
             </p>
           </div>
         </div>
