@@ -16,8 +16,6 @@ export const diaryContent: MonthData[] = [
       "New Year's kiss at midnight"
     ],
     story: "January a month where everything begins a new. Shayad hamra liya ek new journey ka start tha, may be a chance to forget the past leave the future and create beautiful memories together. Doesn't matter how much success we achieved in that but acha toh bhaut rha aur hona b chaiye.Ab jis cheez ki shuraat apka sath hui ho wo toh hamesha hi special rhi hai.Aur vasa b saal ke starting mai apse milna usse acha toh aur kya hi ho sakta tha. Achi cheezo ki Kharab baate bhi hoti hi hai...aur vo ya ki sbse jada yaad bhi vo hi aati hai.Ab jb saal ke end mai hai toh saal ka pehla din yaad aata hai...Bhaut jaldi nikl gya sb kuch asa lagta abhi toh January thi, Thoda din phele hi toh apse mila tha...pr nii...vo 365 din purani baat ho gyi...aur ab naya saal shayad nayi umeedein nayi khawaishein bhi....I hope January phir se ek chance de phir ek nayi shurat ek nayi journey. I hope January wha se shuru na kre jaha December ne shoda tha...And I pray January tumhme phir se Khush kra,tumhe phir se khush rehna ki ek new reason de aur bhaut bhaut sari khushiyan le kr aaye apka liya...",
-    photoPlaceholders: 2
-    story: "The year began with the softest snowfall, as if the universe was wrapping us in a blanket of white. We spent New Year's Eve watching the city lights sparkle, your hand warm in mine. Those cold January nights became our favorite — we'd bundle up, make hot chocolate, and dream about all the adventures ahead. Every frozen morning felt magical because I woke up next to you.",
     photos: [
       "https://images.unsplash.com/photo-1517299321609-52687d1bc55a?w=200&h=200&fit=crop",
       "https://images.unsplash.com/photo-1516541196182-6bdb0516ed27?w=200&h=200&fit=crop",
@@ -32,10 +30,8 @@ export const diaryContent: MonthData[] = [
       "Heart-shaped pancakes",
       "Love letters exchanged"
     ],
-    story: "February logo ke according toh the month of love...hota b hoga shayad...may be logo ko kisi specific month mai pyaar hota hoga...Pr mujhe kya mujhe konsa kisi se payaar hona lga mera liya toh Februray is the month of cochlates aur koi ek adha rose mil jai toh month of roses bhi ho jata hai...pura February toh mai bs isliya school jata rha kyuki subha-subha ap miljata tha ...subha subha thnd aur us thand mai school uniform mai apko dekhna...Kher ab vo Februray dobara ni aatii...ab vo kismat rhi niii...",
-    photoPlaceholders: 2
-    story: "February brought Valentine's Day, but honestly, every day with you feels like Valentine's Day. You surprised me with handwritten love letters — old-fashioned and romantic, just like us. We cooked together, laughed at our failed heart-shaped pancakes, and slow-danced in the kitchen. The snow kept falling outside, but inside, we were warm and wonderfully in love.",
-    photos: [
+    story: "February logo ke according toh the month of love...hota b hoga shayad...may be logo ko kisi specific month mai pyaar hota hoga...Pr mujhe kya mujhe konsa kisi se payaar hona lga mera liya toh Februray is the month of cochlates aur koi ek adha rose mil jai toh month of roses bhi ho jata hai...Vasa toh jada kuch hai ni February mai likhna jaisa bs kuch memories..Like rose day wala din rose dena ka liya udhr road pr intzaar krna phir rose dena ke baad b gaali khana🙂....ya phir ya ki pura February mai bs isliya school jata rha kyuki subha-subha ap miljata the😁 ...subha subha thnd aur us thand mai school uniform mai apko dekhna😋...Kher ab vo Februray dobara ni aatii...ab vo kismat rhi niii🤧...Jb se Mysore mai shift hua hu tb se toh🙂 ....Pr koi baat ni ab toh kya January kya February jb rehna hi idhr hai toh kya farak pdta hai🙃... na toh idhr school hai na thand aur na hi Tum🫠...2026 mai bahut kuch change ho jaiga..almost sb kuch hi change ho jaiga.... phir bhi umeed rhegi kbhi February change na ho..... apke liya Feb hamesha hi The Month of Love bna rhe😊...           ",
+        photos: [
       "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=200&h=200&fit=crop",
       "https://images.unsplash.com/photo-1474552226712-ac0f0961a954?w=200&h=200&fit=crop",
       "https://images.unsplash.com/photo-1455103493930-a116f655b6c5?w=200&h=200&fit=crop"
@@ -49,7 +45,7 @@ export const diaryContent: MonthData[] = [
       "Rainy day movie marathons",
       "Planning spring adventures"
     ],
-    story: "Spring finally whispered through March, bringing gentle rains and the first brave flowers. We spent rainy afternoons wrapped in blankets, watching old movies and stealing kisses during the boring parts. As the days grew longer, so did our list of dreams — places to visit, things to try, moments to create together.",
+    story: "March asa toh favorite month hota tha mera,Apka birth month hai isliye pr is saal ke baad toh pta ni kya....pr mera pass kuch hai ni likhna ko iske bara mai....kuch yaad ni hai....na mai karna chata hu....   ",
     photos: [
       "https://images.unsplash.com/photo-1490750967868-88aa4486c946?w=200&h=200&fit=crop",
       "https://images.unsplash.com/photo-1462275646964-a0e3571f4f9f?w=200&h=200&fit=crop",
