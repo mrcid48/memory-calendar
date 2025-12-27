@@ -1,17 +1,18 @@
-import { Heart, Book, Sun, Snowflake, Leaf, Flower2 } from 'lucide-react';
+import { Heart, Book, ImagePlus } from 'lucide-react';
 
 interface DiaryOverviewPageProps {
   isActive: boolean;
 }
 
-export const DiaryOverviewPage = ({ isActive }: DiaryOverviewPageProps) => {
-  const seasonHighlights = [
-    { icon: Snowflake, label: 'Winter', months: 'Dec - Feb', color: 'text-blue-500' },
-    { icon: Flower2, label: 'Spring', months: 'Mar - May', color: 'text-emerald-500' },
-    { icon: Sun, label: 'Summer', months: 'Jun - Aug', color: 'text-amber-500' },
-    { icon: Leaf, label: 'Fall', months: 'Sep - Nov', color: 'text-orange-500' },
-  ];
+// Replace these placeholder URLs with your own photo URLs!
+export const overviewPhotos = [
+  "https://images.unsplash.com/photo-1518568814500-bf0f8d125f46?w=300&h=300&fit=crop",
+  "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=300&h=300&fit=crop",
+  "https://images.unsplash.com/photo-1529333166437-7750a6dd5a70?w=300&h=300&fit=crop",
+  "https://images.unsplash.com/photo-1522673607200-164d1b6ce486?w=300&h=300&fit=crop"
+];
 
+export const DiaryOverviewPage = ({ isActive }: DiaryOverviewPageProps) => {
   return (
     <div className="flex w-full h-full bg-diary-paper">
       {/* Left Page - Title & Introduction */}
@@ -52,27 +53,31 @@ export const DiaryOverviewPage = ({ isActive }: DiaryOverviewPageProps) => {
         </div>
       </div>
       
-      {/* Right Page - Seasons Overview */}
+      {/* Right Page - Photo Gallery */}
       <div className="w-1/2 paper-right relative p-3 sm:p-4 md:p-6 lg:p-8 flex flex-col overflow-y-auto">
         <div className="relative z-20 flex-1 flex flex-col">
           <h2 className="font-serif text-diary-ink/80 text-xs sm:text-sm uppercase tracking-widest mb-3 sm:mb-4 md:mb-6 text-center">
-            Four Seasons of Love
+            Our Favorite Memories
           </h2>
           
-          {/* Season cards */}
+          {/* Photo grid - 4 photos */}
           <div className="grid grid-cols-2 gap-2 sm:gap-3 md:gap-4 flex-1">
-            {seasonHighlights.map((season) => (
+            {overviewPhotos.map((photo, index) => (
               <div 
-                key={season.label}
-                className="bg-white/50 rounded-lg p-2 sm:p-3 md:p-4 flex flex-col items-center justify-center text-center border border-diary-ink/5 hover:border-diary-gold/30 transition-colors"
+                key={index}
+                className="relative aspect-square rounded-lg overflow-hidden border-2 border-diary-gold/30 shadow-md hover:shadow-lg transition-shadow group"
               >
-                <season.icon className={`w-6 h-6 sm:w-8 sm:h-8 md:w-10 md:h-10 ${season.color} mb-1 sm:mb-2`} />
-                <h3 className="font-script text-sm sm:text-base md:text-lg text-diary-ink">
-                  {season.label}
-                </h3>
-                <p className="text-[8px] sm:text-[10px] md:text-xs text-diary-ink/60 font-serif">
-                  {season.months}
-                </p>
+                <img 
+                  src={photo} 
+                  alt={`Memory ${index + 1}`}
+                  className="w-full h-full object-cover"
+                />
+                <div className="absolute inset-0 bg-diary-ink/0 group-hover:bg-diary-ink/10 transition-colors" />
+                <div className="absolute bottom-1 right-1 bg-white/80 rounded px-1.5 py-0.5">
+                  <span className="text-[8px] sm:text-[10px] text-diary-ink/60 font-serif">
+                    Photo {index + 1}
+                  </span>
+                </div>
               </div>
             ))}
           </div>
