@@ -17,7 +17,7 @@ export const diaryContent: MonthData[] = [
     ],
     story: "January a month where everything begins a new. Shayad hamra liya ek new journey ka start tha, may be a chance to forget the past leave the future and create beautiful memories together. Doesn't matter how much success we achieved in that but acha toh bhaut rha aur hona b chaiye.Ab jis cheez ki shuraat apka sath hui ho wo toh hamesha hi special rhi hai.Aur vasa b saal ke starting mai apse milna usse acha toh aur kya hi ho sakta tha. Achi cheezo ki Kharab baate bhi hoti hi hai...aur vo ya ki sbse jada yaad bhi vo hi aati hai.Ab jb saal ke end mai hai toh saal ka pehla din yaad aata hai...Bhaut jaldi nikl gya sb kuch asa lagta abhi toh January thi, Thoda din phele hi toh apse mila tha...pr nii...vo 365 din purani baat ho gyi...aur ab naya saal shayad nayi umeedein nayi khawaishein bhi....I hope January phir se ek chance de phir ek nayi shurat ek nayi journey. I hope January wha se shuru na kre jaha December ne shoda tha...And I pray January tumhme phir se Khush kra,tumhe phir se khush rehna ki ek new reason de aur bhaut bhaut sari khushiyan le kr aaye apka liya...",
     photos: [
-      "https://images.unsplash.com/photo-1517299321609-52687d1bc55a?w=200&h=200&fit=crop",
+      "/Photos/pic1.jpg",
       "https://images.unsplash.com/photo-1516541196182-6bdb0516ed27?w=200&h=200&fit=crop",
       "https://images.unsplash.com/photo-1418985991508-e47386d96a71?w=200&h=200&fit=crop"
     ]
