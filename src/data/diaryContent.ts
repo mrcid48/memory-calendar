@@ -34,9 +34,9 @@ export const diaryContent: MonthData[] = [
     
     story: "March asa toh favorite month hota tha mera,Apka birth month hai isliye pr is saal ke baad toh pta ni kya....pr mera pass kuch hai ni likhna ko iske bara mai....kuch yaad ni hai....na mai karna chata hu....Starting ka 10-12 din toh thik the pr...sirf 10-12 din hi thik the...March ke baad toh jaisa sb kuch hi badal gya...Worst month tha shayad rhega bhi...uske baad toh khone layak kuch khaas rha nhi... 2 diary thi vo bhi nhi rhi...Sb kuch hi khatam ho gya tha almost toh...Ab toh asa lagta hai mr toh march mai hi gya tha ab toh bs rebirth hua hai, aur vo hi rebirth wali jindagi jee rha hu...Aur koi ummeed b nhi ab..na kudh se na kisi bhagwan se..na kisi aur se...   ",
     photos: [
-      "https://images.unsplash.com/photo-1490750967868-88aa4486c946?w=200&h=200&fit=crop",
-      "https://images.unsplash.com/photo-1462275646964-a0e3571f4f9f?w=200&h=200&fit=crop",
-      "https://images.unsplash.com/photo-1489440076332-5ec1a74b773c?w=200&h=200&fit=crop"
+      "/Photos/1.jpg",
+      "/Photos/1.jpg",
+      "/Photos/1.jpg"
     ]
   },
   {
@@ -45,9 +45,9 @@ export const diaryContent: MonthData[] = [
    
     story: "April Koi khass frk ni hai is saal April aur March mai dono ne mil kr pura saal barbad kiya hai...March ke baad toh adha April mai hua kya hai kuch smjh nhi aaya...1 din b nhi yaad starting ke 10-20 dino mai se...Phir 21 April ko apse baat hui...Dadu bimar hai doctor chandigarh reffer kr rhe hai...Uske baad toh life ne asa turn liya ki vapis se sahi rasta mila hi nhi.....Ajj tk smjh nhi aaya asa kya ho gya...ek ke baad ek sb kuch kharab kharab kharab hi kyu hota rha kbhi vapis se kuch sahi kyu nhi hau...Bhaut hi ajeeb sa lagta hai jb bhi mind mai aata hai ya 2 months bs 2 months kasa ....matlab kasa sb kuch hi change kr sakta hai....Apni puri life mai bhaut dekha bhaut se changes experience kiya pr phir b lagta hai ya 2 months jasa ghatiya mahina life mai kbhi na aaya vapis...March ke baad jaise conditions thi agr April mai vo asif ni jaise koi baat hui hi na hoti toh shayad bhaut mai bhaut pehle chl gya apki life se.....pr shayad kismat kuch aur chati thi...Khar in sabhi baato ke bara mai sochna nhi chata...Ab toh bs ya hi umeed hai dobara kbhi asa koi month dekhna ko na mile life mai....",
     photos: [
-      "https://images.unsplash.com/photo-1522383225653-ed111181a951?w=200&h=200&fit=crop",
-      "https://images.unsplash.com/photo-1462275646964-a0e3571f4f9f?w=200&h=200&fit=crop",
-      "https://images.unsplash.com/photo-1455659817273-f96807779a8a?w=200&h=200&fit=crop"
+      "/Photos/1.jpg",
+      "/Photos/1.jpg",
+      "/Photos/1.jpg"
     ]
   },
   {
@@ -56,9 +56,9 @@ export const diaryContent: MonthData[] = [
    
     story: "May pura toh ek jasa hi tha....almost daily ka same timetable subha utho msg kro 😋... phir apne school jana hota tha toh school ni toh...baat baat baat.....pura din ya hi 🙂....phir raat ko b baat pr....bahut ajeeb ho gya is time tb tk sb kuch...subha din mai thik hi rehta tha....raat ko hi kuch ho jata tha....😐 Raat ko kbhi sahi se baat hui hi nhi....kisi na kisi baat ko lekr gussa ho jata the...tum aur phir ohk ok gn🙃...Matlab ladai jaisa toh kuch nhi hua hamare beech pr... Gussa toh hote rehta tum😒....Gaffa b nikl hi jata the...Phir b upr wala two months se toh bhaut better tha...Although bahut kuch ajeeb b hua May mai pr mujhe may ki bs ek hi cheez yaad  aati hai vo Rajma Chawal wali😋...like mujhe toh bhaut acha se yaad hai tum lunch kr rhe rajma chawal saath mai msg b kr rhe the....mene bola mujhe b khana hai rajma chawal...aur apne first time toh apne khana share krne ka liya hn bola😀....aur video bhi snd ki rajma chawal khilana ka liya😋....Aur in sb mai India Pakistan ki war bhi start ho gye...🫠..Vo toh alg hi twist Jasi puri puri raat firring chalti thi lagta tha isbar bs last war hai...Pr hua kuch b nhi..At all may toh adventure ke sath aaya aur baki saal se acha tha..   ",
     photos: [
-      "https://images.unsplash.com/photo-1444858291040-58f756a3bdd6?w=200&h=200&fit=crop",
-      "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=200&h=200&fit=crop",
-      "https://images.unsplash.com/photo-1433086966358-54859d0ed716?w=200&h=200&fit=crop"
+      "/Photos/sh25.jpg",
+      "/Photos/26.jpg",
+      "/Photos/27.jpg"
     ]
   },
   {
