@@ -29,16 +29,16 @@ export const DiaryBackCover = ({ isVisible }: DiaryBackCoverProps) => {
           
           <div className="space-y-3 sm:space-y-4 font-serif text-diary-paper/90 text-sm sm:text-base leading-relaxed">
             <p>
-              This diary is a small collection of our journey through the year — every laugh, every adventure, every quiet moment.
+              Ya Diary bhi ab 1 saal purani ho gyi....Bhul jao sb kuch is diary ko bhi....
             </p>
             <p>
-              You are my favorite chapter in life's story, and I can't wait to write many more with you.
+              Kuch cheezo ko piche shod ke aana nikl jana hi sahi hota...
             </p>
             <p className="font-script text-lg sm:text-xl md:text-2xl gold-text pt-2 sm:pt-4">
-              With all my love,
+              Have a Loving and Prosperous Life a head...
             </p>
             <p className="font-script text-base sm:text-lg text-diary-paper/80">
-              Forever yours ❤️
+              SHKACHU💕
             </p>
           </div>
         </div>

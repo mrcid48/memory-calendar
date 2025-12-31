@@ -121,7 +121,7 @@ export const diaryContent: MonthData[] = [
     month: "November",
     season: "fall",
    
-    story: "November...starting ke kuch din shod ke november mai toh baat hi nii kii.....Apko pta hi hai",
+    story: "November...starting ke kuch din shod ke november mai toh baat hi nii kii.....Apko pta  hai hm dono ka liya hm dono bhaut alg hai.... jaise mera liya tum ho mai vasa ni hu apka liya...aur agr kbhi hm baat ni kr rha usse sbse jada dikkat mujhe hi hoti hai....asa toh ni hai ki ab mera mn ni karta apse baat karna na nahi asa kuch hai mujhe koi aur mil gya hai... tumhe b acha pta hai ya possible ni kisi aur se baat kru....kyu ni hota hai mujhse mai ni kr pata....agr koshish b kru toh ni kr skata...Tumse baat ni krna.... itna ni hai...kudh pe control rakhna jo insaan dimag se ek minute ka liya b ni jata usko ignore karna.....usse dooor rehna...kuch bhi asan nii...koi kitna hi control kr skata hai kudh ko...mujhe b pta mai ni kr skata....kbhi na kbhi mai...tumhe msg krna koshish kr hi dunga...pta nii kyu pr kraunga...Hm kabhi bhi friendni the na kbhi bf gf bna...phir ya sb kyu...jo insaan kbhi mind se bahar ni nikalta mujhe pta hi nhi hai vo hai kon mera....jo hr din hr time yaad aata hai mujhe pta hi nhi hai...kya smjh kr yaad kr rha hu use...kyu kr rha hu....Sirf 9 din baate ki hmne november mai sirf 9 din.. aur jb scroll krne lagta chat toh 1-1 din asa lagna lga jaisa 1 month ki chatting hai...itni baat kr lata hai....kyu....kya fayda itna baate krna.....sirf baate hi toh krta rehta hai.....kisi se b kr sakta hi na....kbhi samjhana ki koshish ni kii na...na kbhi smjha hm....pta nii kyu......         ",
     photos: [
        "/Photos/sh21.jpg",
       "/Photos/sh22.jpg",
@@ -132,11 +132,11 @@ export const diaryContent: MonthData[] = [
     month: "December",
     season: "winter",
    
-    story: "December closed our year with twinkling lights and grateful hearts. We drove around looking at Christmas decorations, hot cocoa in hand. Gift wrapping sessions turned chaotic and hilarious. As the year drew to a close, I looked at you and realized — every moment, every season, every single day has been a gift. Here's to another year of us, my love.",
+    story: "December sala ka akhiri month jo kuch b january se start hota hai idhr aakr khatam ho jata hai....Hm b january mai mile the....pta ni kya hua hai...asa lagta hai bahut pehle hi khatam ho gya jo tha....ab bs jo nazar aa rha jo lg rha hai bacha hua...vo sb juth lagta hai...umeede december ke sath khatam ho jati....i hope hamari b ho jai...mujhe kbhi kisi b baat se koi dikkat ni thi kisi baat se koi problem ni thi...hamari baat ho na ho....kuch b hota rha hamare beech pr kabhi asa ni aaya mind mai ki tumse baat ni krunga...tumahara upr kbhi gussa b ni aaya na kisi baat ka kbhi bura lga....tum mujhe kuch b bolo...mera liya tum kabhi normal friend ya koi normal rhe nii...Kbhi tumse gussa hona ka try b kru ko kudh ko hi takleef hoti hai....apko kabhi kuch suphana ki jarurat ni padhni chaiye thi kbhi juth bolna ki jarurat ni padhni chaiye thi...tum kudh b bolta the mujhse juth bolo ya sch ek hi  baat hai...pta ni phir kyu tumne hamesha juth bolna hi choose kyu kiya....pta ni kyu pr sb kuch asa ho gya tha jasa ap kuch share krna se jada share na karna mai comfortable the....meri galtiya bhaut thi...mai shayad apko vasa ni smjhta jaisa ap chata the...kbhi apse vasa ni baat krta tha jaisa ap chata the...pr hamasha apki baat sunna ki samjhna ki puri koshish kii hai...I am soorry...for that...pr shodo vo ab pichle saal ki baat ho gyi....2026 aa chuka hai...New year new way se start kro....pichla saal ab past bn chuka hai...Purana sb kuch bhul ke next year mai kadam rakho....Happy new Year.       ",
     photos: [
-       "/Photos/sh1.jpg",
-      "/Photos/sh2.jpg",
-      "/Photos/sh3.jpg"
+       "/Photos/sh16.jpg",
+      "/Photos/sh20.jpg",
+      "/Photos/sh23.jpg"
     ]
   }
 ];
