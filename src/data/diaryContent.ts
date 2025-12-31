@@ -12,9 +12,9 @@ export const diaryContent: MonthData[] = [
     season: "winter",
     story: "January a month where everything begins a new. Shayad hamra liya ek new journey ka start tha, may be a chance to forget the past leave the future and create beautiful memories together. Doesn't matter how much success we achieved in that but acha toh bhaut rha aur hona b chaiye.Ab jis cheez ki shuraat apka sath hui ho wo toh hamesha hi special rhi hai.Aur vasa b saal ke starting mai apse milna usse acha toh aur kya hi ho sakta tha. Achi cheezo ki Kharab baate bhi hoti hi hai...aur vo ya ki sbse jada yaad bhi vo hi aati hai.Ab jb saal ke end mai hai toh saal ka pehla din yaad aata hai...Bhaut jaldi nikl gya sb kuch asa lagta abhi toh January thi, Thoda din phele hi toh apse mila tha...pr nii...vo 365 din purani baat ho gyi...aur ab naya saal shayad nayi umeedein nayi khawaishein bhi....I hope January phir se ek chance de phir ek nayi shurat ek nayi journey. I hope January wha se shuru na kre jaha December ne shoda tha...And I pray January tumhme phir se Khush kra,tumhe phir se khush rehna ki ek new reason de aur bhaut bhaut sari khushiyan le kr aaye apka liya...",
     photos: [
-      "/Photos/pic1.jpg",
-      "https://images.unsplash.com/photo-1516541196182-6bdb0516ed27?w=200&h=200&fit=crop",
-      "https://images.unsplash.com/photo-1418985991508-e47386d96a71?w=200&h=200&fit=crop"
+      "/Photos/sh1.jpg",
+      "/Photos/sh2.jpg",
+      "/Photos/sh3.jpg"
     ]
   },
   {
@@ -23,9 +23,9 @@ export const diaryContent: MonthData[] = [
 
     story: "February logo ke according toh the month of love...hota b hoga shayad...may be logo ko kisi specific month mai pyaar hota hoga...Pr mujhe kya mujhe konsa kisi se payaar hona lga mera liya toh Februray is the month of cochlates aur koi ek adha rose mil jai toh month of roses bhi ho jata hai...Vasa toh jada kuch hai ni February mai likhna jaisa bs kuch memories..Like rose day wala din rose dena ka liya udhr road pr intzaar krna phir rose dena ke baad b gaali khana🙂....ya phir ya ki pura February mai bs isliya school jata rha kyuki subha-subha ap miljata the😁 ...subha subha thnd aur us thand mai school uniform mai apko dekhna😋...Kher ab vo Februray dobara ni aatii...ab vo kismat rhi niii🤧...Jb se Mysore mai shift hua hu tb se toh🙂 ....Pr koi baat ni ab toh kya January kya February jb rehna hi idhr hai toh kya farak pdta hai🙃... na toh idhr school hai na thand aur na hi Tum🫠...2026 mai bahut kuch change ho jaiga..almost sb kuch hi change ho jaiga.... phir bhi umeed rhegi kbhi February change na ho..... apke liya Feb hamesha hi The Month of Love bna rhe😊...           ",
         photos: [
-      "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=200&h=200&fit=crop",
-      "https://images.unsplash.com/photo-1474552226712-ac0f0961a954?w=200&h=200&fit=crop",
-      "https://images.unsplash.com/photo-1455103493930-a116f655b6c5?w=200&h=200&fit=crop"
+      "/Photos/sh4.jpg",
+      "/Photos/sh5.jpg",
+      "/Photos/sh6.jpg"
     ]
   },
   {
@@ -54,7 +54,7 @@ export const diaryContent: MonthData[] = [
     month: "May",
     season: "spring",
    
-    story: "May ",
+    story: "May pura toh ek jasa hi tha....almost daily ka same timetable subha utho msg kro 😋... phir apne school jana hota tha toh school ni toh...baat baat baat.....pura din ya hi 🙂....phir raat ko b baat pr....bahut ajeeb ho gya is time tb tk sb kuch...subha din mai thik hi rehta tha....raat ko hi kuch ho jata tha....😐 Raat ko kbhi sahi se baat hui hi nhi....kisi na kisi baat ko lekr gussa ho jata the...tum aur phir ohk ok gn🙃...Matlab ladai jaisa toh kuch nhi hua hamare beech pr... Gussa toh hote rehta tum😒....Gaffa b nikl hi jata the...Phir b upr wala two months se toh bhaut better tha...Although bahut kuch ajeeb b hua May mai pr mujhe may ki bs ek hi cheez yaad  aati hai vo Rajma Chawal wali😋...like mujhe toh bhaut acha se yaad hai tum lunch kr rhe rajma chawal saath mai msg b kr rhe the....mene bola mujhe b khana hai rajma chawal...aur apne first time toh apne khana share krne ka liya hn bola😀....aur video bhi snd ki rajma chawal khilana ka liya😋....Aur in sb mai India Pakistan ki war bhi start ho gye...🫠..Vo toh alg hi twist Jasi puri puri raat firring chalti thi lagta tha isbar bs last war hai...Pr hua kuch b nhi..At all may toh adventure ke sath aaya aur baki saal se acha tha..   ",
     photos: [
       "https://images.unsplash.com/photo-1444858291040-58f756a3bdd6?w=200&h=200&fit=crop",
       "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=200&h=200&fit=crop",
@@ -64,106 +64,79 @@ export const diaryContent: MonthData[] = [
   {
     month: "June",
     season: "summer",
-    memories: [
-      "Beach road trip",
-      "Stargazing until dawn",
-      "Summer solstice bonfire"
-    ],
-    story: "June",
+    
+    story: "June.... Ek month thoda acha gya tha toh phir june aa gya...June toh starting se bahut ajeeb ho gya..May ke end mai ap Buji ghr chale gya unka new ghr ki puja ki thi... wah jana ke cheeza toh bhaut ajeeb ho gyi...phele vo Parshotam ko kuch hua usne adhi raat mmy ke number call kr di.... uske baad kbhi kuch toh kbhi kuch....Starting starting mai toh phir cheeza thik thik thi...Ap pehle Buji ghr..phir udhr se nani ghr...Aur dono jagha se mujhe toh bahut sari photos mili😋...June mai bs yahi ek achi baat hui... Photos mili bhaut sare videos bhi..dance wali 😀....Hmmm...sb kuch normal hi tha pr pta nhi pura June hr roz daily hm bs same baat krta rhe...aur daily use topic pr ladta rhe....Na ap uski koi baat krna chata the na mujhe psnd tha..phir b pta nhi kyu..daily same baat aur same way mai dimag kharab 😑...Jin baato ko hm yaad krne ni chata hm un baato ko bhulna b nhi chata...ya phir chata toh hai pr bhul hi nhi sakta shayad..",
     photos: [
-      "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=200&h=200&fit=crop",
-      "https://images.unsplash.com/photo-1519046904884-53103b34b206?w=200&h=200&fit=crop",
-      "https://images.unsplash.com/photo-1475924156734-496f6cac6ec1?w=200&h=200&fit=crop"
+       "/Photos/sh7.jpg",
+      "/Photos/sh8.jpg",
+      "/Photos/sh9.jpg"
     ]
   },
   {
     month: "July",
     season: "summer",
-    memories: [
-      "Fireworks and cotton candy",
-      "Lake house weekend",
-      "Hammock naps and lemonade"
-    ],
-    story: "July painted everything in shades of gold and blue. Fireworks lit up the sky as we sat side by side, your head on my shoulder. Our lake house weekend was pure magic — morning swims, afternoon naps in the hammock, evenings cooking over an open fire. Time slowed down, and I realized these simple moments are my favorite kind of extraordinary.",
+    
+    story: "July....Pura saal mai July sbse alg rha...Ya acha tha ya bura ya toh ni bta sakta pr shayad iska intzaar jarur tha...Bhaut time se shayad 1 saal se...Sahi galat ka pta nhi shayad pr Ajj jo hai hm jaisa hai ab aur phele jaisa the bhaut frk hai dono mai aur ya frk shayad July se bhaut clear hua hai.... last 1 saal se mai daily ya hi sochta rha jb se mile hai 23 January 2023 se abhi tk hamare beech kabhi koi serious ladai ni hui..kbhi kuch asa ni huajiske vaja se hm ek dushre se baat krna bnd kr de hamasha ka liya phir b hamare beech sb kuch itna ajeeb kyu ho gya.... bina kisi vja ka sb kuch itna alg kyu ho gya...pehle jaisa kuch rha kyu ni...daily daily hm bhs krne lga...baat daily krte rhe pr pehele jaisa nhi...shoti shoti baato mai juth bolna...kuch share ni krna...baat manni nhi...ya sb toh bhaut common ho gya tha...aur ya sari baate asa ignore krna jaisa kuch hua hi nhi...smjh hi ni aa rha tha ya sb ho kyu rha hai..pr July ki starting ne sn kuch clear kr diya...Sb kuch jo apka mind mai tha vo batate batate apne in sb questions a jawab bta diya...Mujhe b itna late realize hua...Mera hr baat mai shi glt ka frk samjhna ya krna chaiye vo nhi krna...apko ya kbhi psnd ni aaya...bhaut late realize hua kbhi kbhi insaan presani sirf isliya share krta hai kyuki vo krna chata hai kyuki use acha lagta hai share krke...hr bar problem ka solution nhi dundhna hota...bhaut bar sirf samne wala ko sunna hota hai..kyuki vo insaan tumhara pass bs isliye aata hai kyuki smjh sakta ho use...aur bar jb mai kudh smjhna ki jagha tumhe samjhna lga..toh apne share na krna hi sahi samjha....My fault..bhaut time lg gya samjhna mai pr samjha mai us din...apko b apki baato ko bhi... ",
     photos: [
-      "https://images.unsplash.com/photo-1498931299210-de6f5d72e1c9?w=200&h=200&fit=crop",
-      "https://images.unsplash.com/photo-1439066615861-d1af74d74000?w=200&h=200&fit=crop",
-      "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=200&h=200&fit=crop"
+       "/Photos/sh10.jpg",
+      "/Photos/sh11.jpg",
+      "/Photos/sh12.jpg"
     ]
   },
   {
     month: "August",
     season: "summer",
-    memories: [
-      "Concert under the stars",
-      "Farmers market mornings",
-      "Sunset boat ride"
-    ],
-    story: "August was our month of adventures. We danced at an outdoor concert, surrounded by music and fairy lights. Saturday mornings became about farmers markets — picking fresh fruits, tasting homemade treats, holding hands through crowded lanes. That sunset boat ride, with the sky turning pink and orange, felt like a scene from a movie — except it was our beautiful reality.",
+    story: "August...July se bahut se sikha..like hr baar smane walo ko samjhna ni hota....Apko ignore kro toh apko bhaut gussa aata hai kbhi kbhi ap phone bhi fank ke todh deta ho...aur ya sb sikhna ke baad jb august mai aaya toh vo bahut acha tha...Because August mai apne ko mila vo bahut acha se...pehle jb 8 August ko mile toh vo toh acha tha hi...uski toh pics b hai pr...18 ko jb mile toh vo best tha shayad isliya b kyuki vo last time tha jb hm mile...pr aur bahut kuch tha us din...pehle toh apka liya suprise ho gya koi achanak se Banglore se jammu... Aur us din toh barish b itnii hui😀....Itna time mai intzaar kr rha tha kisi din barish mai milu apse aur us din achanak se vo bhi ho gya...😋......Sb kuch us din ka acha hi tha sirf ek baat shod ke vo last time tha jb apse mila tha... Kahir life toh hai hi asi Kushi jada time tk rehta nhi hai...uske baad hmne baat nhi tb tk toh bilkul nhi jb tk mai Banglore nhi aa gya...Apko pta b nhi tha...shayad mujhe b nhi..Galti thi vo b...Bina batay...bina mile chl jana vo b tb jb pta ho ki next time kb milenge kisi ko nhi pta...time b asa pass hua hai....4 months ho gya...ek bar b nhi dekha..aur aage pta nhi kitna aur months ya year..kuch ni pta..",
     photos: [
-      "https://images.unsplash.com/photo-1501386761578-eac5c94b800a?w=200&h=200&fit=crop",
-      "https://images.unsplash.com/photo-1488459716781-31db52582fe9?w=200&h=200&fit=crop",
-      "https://images.unsplash.com/photo-1476820865390-c52aeebb9891?w=200&h=200&fit=crop"
+       "/Photos/sh12.jpg",
+      "/Photos/sh13.jpg",
+      "/Photos/sh25.jpg"
     ]
   },
   {
     month: "September",
     season: "fall",
-    memories: [
-      "Apple orchard adventures",
-      "Cozy sweater weather begins",
-      "Anniversary celebrations"
-    ],
-    story: "September brought the first whispers of autumn, and with it, a new kind of magic. Apple orchards became our weekend escape — you always picked the highest ones, showing off. We celebrated our anniversary with a quiet dinner, looking back at all we'd built together. As leaves started to turn, I fell deeper in love with you and this life we're creating.",
+
+    
+    story: "September...pura toh bina baat kiya nikla hai....24 ko toh first time baat hui september mai..Pura month nikl chuka tha...Hmm galti b meri hi thi..😐.Pr kya hi bolu ab idhr aana ke baad toh bhaut jaldi hi ya ehsas ho gya tha idhr rehna muskil hai....khana ki toh bs ek presani hai...sahi dikkat toh idhr ekala hai...Asa toh bhaut acha lagta tha sochna mai ekala rahuga mja krunga koi presan nhi krega...pr jb ekala rehna start hua toh pta lga.Presan kre koi tb hi jinda raha jata hai....nhi toh ekala toh koi ni reh sakta.Khair somehow september b nikl gya...last mai hi sahi apse phir baat hui pr isbar bhaut alg way mai....jaisa purana sb kuch shod ke bhul ke starting se start kr rhe ho...Pr shayad galt fami thi ya bhi...October aa gya...       ",
+    
     photos: [
-      "https://images.unsplash.com/photo-1508193638397-1c4234db14d8?w=200&h=200&fit=crop",
-      "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?w=200&h=200&fit=crop",
-      "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=200&h=200&fit=crop"
+       "/Photos/sh14.jpg",
+      "/Photos/sh15.jpg",
+      "/Photos/sh16.jpg"
     ]
   },
   {
     month: "October",
     season: "fall",
-    memories: [
-      "Pumpkin patch adventures",
-      "Halloween costume planning",
-      "Leaf pile jumping"
-    ],
-    story: "October wrapped us in amber and gold. Pumpkin patches, hayrides, and endless debates about our Halloween costumes filled our days. You insisted on matching costumes — I secretly loved that you did. Jumping into leaf piles like kids, carving pumpkins by candlelight, watching spooky movies until midnight — fall became our season of playfulness.",
+   
+    story: "October...pura saal hi bekar tha toh october b kyu hi sahi hoag....Vasa b mera birthday month hai toh kuch na kuch toh hona hi tha...September last mai baat honi start hui thi asa lg rha tha ab sb kuch alg hai pehle se bahut alg...Na hm vo purani baate kr rhe the na bewaja ki bhs...purani baate bhaut peecha shod di shayad...pr sb kuch jada time tk sahi nhi rehta...5 october apki ek call jis pe baat toh kuch b nhi kii bs rooya ap bhaut time tk roya aur rota hi rhe....Bs ek call aur abhi tk jo lg rha tha ki pehle jaisa ni rha ab vo sb vapis se pehle jaisa ho gya... Daily hm same topic pe daily baat karte mai daily koshish karta apko samjhau pr koi fayda nii...kisi ke control mai kuch ni hota na rona na hasna na sochna...pta tha mujhe ap ni control kr sakte phir b hr roz same baat bolta rha apko. Asa ni hai ki mujhe lagta hai mera bolna se ap rona shod doge...mujhe pta hai ki possible ni hai emotions ko control krna pr...mai ni kr sakta tha kuch..kuch b nhi... mujhe ni psnd apko rota hua dekhna mujh se ni hota..pr mai kuch kr b ni sakta. Kudh ni kuch smjh ni aata tha. Daily pta hota tha apse baat krunga apko rona aa jaiga aur phir mai...bs chup ho jao chup ho jao...bolta rahuga..shayad kbhi sikha hi nhi chup kasa karata hai....jb koi samne rona lga toh react kasa karta hai kbhi pta hi nhi lga...toh mai jitni koshish kru sb bekar hai...Shayad itna b aasan ni hota us insaan ko chup kra pana jiske aanshu dekha kr tum kudh ko hi control ni kr pata... Bhaut ajeeb se feeling aati hai jb ko kush dekhna ka tum pura din fast rakho aur raat ko vo insaan hi roota hua nzr aaya...Toh kya umeed kisi bhagwan se..kya umeed kisi fast se....            ",
     photos: [
-      "https://images.unsplash.com/photo-1509557965875-b88c97052f0e?w=200&h=200&fit=crop",
-      "https://images.unsplash.com/photo-1508739773434-c26b3d09e071?w=200&h=200&fit=crop",
-      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&h=200&fit=crop"
+       "/Photos/sh17.jpg",
+      "/Photos/sh18.jpg",
+      "/Photos/sh20.jpg"
     ]
   },
   {
     month: "November",
     season: "fall",
-    memories: [
-      "Thanksgiving gratitude",
-      "First frost morning walks",
-      "Baking experiments together"
-    ],
-    story: "November taught us gratitude in the most beautiful ways. Frosty mornings made our walks magical, our breath visible in the cold air. We hosted our first Thanksgiving together — the turkey was slightly burnt, but the love was perfectly done. Baking became our new hobby, flour fights included. I'm thankful for every messy, wonderful moment with you.",
+   
+    story: "November...starting ke kuch din shod ke november mai toh baat hi nii kii.....Apko pta hi hai",
     photos: [
-      "https://images.unsplash.com/photo-1447752875215-b2761acb3c5d?w=200&h=200&fit=crop",
-      "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=200&h=200&fit=crop",
-      "https://images.unsplash.com/photo-1504387103978-e4ee71416c38?w=200&h=200&fit=crop"
+       "/Photos/sh21.jpg",
+      "/Photos/sh22.jpg",
+      "/Photos/sh24.jpg"
     ]
   },
   {
     month: "December",
     season: "winter",
-    memories: [
-      "Holiday lights tour",
-      "Gift wrapping chaos",
-      "New Year's Eve magic"
-    ],
+   
     story: "December closed our year with twinkling lights and grateful hearts. We drove around looking at Christmas decorations, hot cocoa in hand. Gift wrapping sessions turned chaotic and hilarious. As the year drew to a close, I looked at you and realized — every moment, every season, every single day has been a gift. Here's to another year of us, my love.",
     photos: [
-      "https://images.unsplash.com/photo-1482517967863-00e15c9b44be?w=200&h=200&fit=crop",
-      "https://images.unsplash.com/photo-1512389142860-9c449e58a814?w=200&h=200&fit=crop",
-      "https://images.unsplash.com/photo-1479722842840-c0a823bd0cd6?w=200&h=200&fit=crop"
+       "/Photos/sh1.jpg",
+      "/Photos/sh2.jpg",
+      "/Photos/sh3.jpg"
     ]
   }
 ];
