@@ -1,7 +1,7 @@
 export interface MonthData {
   month: string;
   season: 'winter' | 'spring' | 'summer' | 'fall';
-  memories: string[];
+  memories?: string[];
   story: string;
   photos: string[]; // Array of image paths - replace with your own photos!
 }
