@@ -96,7 +96,7 @@ export const diaryContent: MonthData[] = [
     ]
   },
   {
-    month: "September",
+    month: "September...pura toh bina baat kiya nikla hai....24 ko toh first time baat hui september mai..Pura month nikl chuka tha...Hmm galti b meri hi thi..😐.Pr kya hi bolu ab idhr aana ke baad toh bhaut jaldi hi ya ehsas ho gya tha idhr rehna muskil hai....khana ki toh bs ek presani hai...sahi dikkat toh idhr ekala hai...Asa toh bhaut acha lagta tha sochna mai ekala rahuga mja krunga koi presan nhi krega...pr jb ekala rehna start hua toh pta lga.Presan kre koi tb hi jinda raha jata hai....nhi toh ekala toh koi ni reh sakta.Khair somehow september b nikl gya...last mai hi sahi apse phir baat hui pr isbar bhaut alg way mai....jaisa purana sb kuch shod ke bhul ke starting se start kr rhe ho...Pr shayad galt fami thi ya bhi...October aa gya...       ",
     season: "fall",
     
     story: "September",
@@ -109,12 +109,8 @@ export const diaryContent: MonthData[] = [
   {
     month: "October",
     season: "fall",
-    memories: [
-      "Pumpkin patch adventures",
-      "Halloween costume planning",
-      "Leaf pile jumping"
-    ],
-    story: "October wrapped us in amber and gold. Pumpkin patches, hayrides, and endless debates about our Halloween costumes filled our days. You insisted on matching costumes — I secretly loved that you did. Jumping into leaf piles like kids, carving pumpkins by candlelight, watching spooky movies until midnight — fall became our season of playfulness.",
+   
+    story: "October...pura saal hi bekar tha toh october b kyu hi sahi hoag....Vasa b mera birthday month hai toh kuch na kuch toh hona hi tha...September last mai baat honi start hui thi asa lg rha tha ab sb kuch alg hai pehle se bahut alg...Na hm vo purani baate kr rhe the na bewaja ki bhs...purani baate bhaut peecha shod di shayad...pr sb kuch jada time tk sahi nhi rehta...5 october apki ek call jis pe baat toh kuch b nhi kii bs rooya ap bhaut time tk roya aur rota hi rhe....Bs ek call aur abhi tk jo lg rha tha ki pehle jaisa ni rha ab vo sb vapis se pehle jaisa ho gya... Daily hm same topic pe daily baat karte mai daily koshish karta apko samjhau pr koi fayda nii...kisi ke control mai kuch ni hota na rona na hasna na sochna...pta tha mujhe ap ni control kr sakte phir b hr roz same baat bolta rha apko. Asa ni hai ki mujhe lagta hai mera bolna se ap rona shod doge...mujhe pta hai ki possible ni hai emotions ko control krna pr...mai ni kr sakta tha kuch..kuch b nhi... mujhe ni psnd apko rota hua dekhna mujh se ni hota..pr mai kuch kr b ni sakta. Kudh ni kuch smjh ni aata tha. Daily pta hota tha apse baat krunga apko rona aa jaiga aur phir mai...bs chup ho jao chup ho jao...bolta rahuga..shayad kbhi sikha hi nhi chup kasa karata hai....jb koi samne rona lga toh react kasa karta hai kbhi pta hi nhi lga...toh mai jitni koshish kru sb bekar hai...Shayad itna b aasan ni hota us insaan ko chup kra pana jiske aanshu dekha kr tum kudh ko hi control ni kr pata... Bhaut ajeeb se feeling aati hai jb ko kush dekhna ka tum pura din fast rakho aur raat ko vo insaan hi roota hua nzr aaya...Toh kya umeed kisi bhagwan se..kya umeed kisi fast se....            ",
     photos: [
       "https://images.unsplash.com/photo-1509557965875-b88c97052f0e?w=200&h=200&fit=crop",
       "https://images.unsplash.com/photo-1508739773434-c26b3d09e071?w=200&h=200&fit=crop",
@@ -124,11 +120,7 @@ export const diaryContent: MonthData[] = [
   {
     month: "November",
     season: "fall",
-    memories: [
-      "Thanksgiving gratitude",
-      "First frost morning walks",
-      "Baking experiments together"
-    ],
+   
     story: "November taught us gratitude in the most beautiful ways. Frosty mornings made our walks magical, our breath visible in the cold air. We hosted our first Thanksgiving together — the turkey was slightly burnt, but the love was perfectly done. Baking became our new hobby, flour fights included. I'm thankful for every messy, wonderful moment with you.",
     photos: [
       "https://images.unsplash.com/photo-1447752875215-b2761acb3c5d?w=200&h=200&fit=crop",
