@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 
 interface PhotoMemoryProps {
   index: number;
@@ -10,6 +10,11 @@ interface PhotoMemoryProps {
 export const PhotoMemory = ({ index, season, photoUrl, rotation = 0 }: PhotoMemoryProps) => {
   const [isHovered, setIsHovered] = useState(false);
   const [imageError, setImageError] = useState(false);
+
+  // If a previous image failed (e.g., due to network), reset when src changes
+  useEffect(() => {
+    setImageError(false);
+  }, [photoUrl]);
   
   const baseRotation = (index % 2 === 0 ? -3 : 3) + rotation;
   const hoverRotation = 0;
