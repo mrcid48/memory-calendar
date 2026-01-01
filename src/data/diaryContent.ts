@@ -57,8 +57,8 @@ export const diaryContent: MonthData[] = [
     story: "May pura toh ek jasa hi tha....almost daily ka same timetable subha utho msg kro 😋... phir apne school jana hota tha toh school ni toh...baat baat baat.....pura din ya hi 🙂....phir raat ko b baat pr....bahut ajeeb ho gya is time tb tk sb kuch...subha din mai thik hi rehta tha....raat ko hi kuch ho jata tha....😐 Raat ko kbhi sahi se baat hui hi nhi....kisi na kisi baat ko lekr gussa ho jata the...tum aur phir ohk ok gn🙃...Matlab ladai jaisa toh kuch nhi hua hamare beech pr... Gussa toh hote rehta tum😒....Gaffa b nikl hi jata the...Phir b upr wala two months se toh bhaut better tha...Although bahut kuch ajeeb b hua May mai pr mujhe may ki bs ek hi cheez yaad  aati hai vo Rajma Chawal wali😋...like mujhe toh bhaut acha se yaad hai tum lunch kr rhe rajma chawal saath mai msg b kr rhe the....mene bola mujhe b khana hai rajma chawal...aur apne first time toh apne khana share krne ka liya hn bola😀....aur video bhi snd ki rajma chawal khilana ka liya😋....Aur in sb mai India Pakistan ki war bhi start ho gye...🫠..Vo toh alg hi twist Jasi puri puri raat firring chalti thi lagta tha isbar bs last war hai...Pr hua kuch b nhi..At all may toh adventure ke sath aaya aur baki saal se acha tha..   ",
     photos: [
       "/Photos/sh25.jpg",
-      "/Photos/26.jpg",
-      "/Photos/27.jpg"
+      "/Photos/sh26.jpg",
+      "/Photos/sh27.jpg"
     ]
   },
   {
