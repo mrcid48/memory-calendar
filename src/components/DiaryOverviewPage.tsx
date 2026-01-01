@@ -9,7 +9,7 @@ export const overviewPhotos = [
   "/Photos/sh1.jpg",
   "/Photos/sh7.jpg",
   "/Photos/sh12.jpg",
-  "/Photos/sh17,jpg"
+  "/Photos/sh17.jpg",
 ];
 
 export const DiaryOverviewPage = ({ isActive }: DiaryOverviewPageProps) => {

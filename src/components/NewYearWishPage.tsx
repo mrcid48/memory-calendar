@@ -35,7 +35,7 @@ export const NewYearWishPage = ({ isActive }: NewYearWishPageProps) => {
       </div>
       
       {/* Right Page */}
-      <div className="w-1/2 paper-right relative p-2 sm:p-4 md:p-6 lg:p-8 flex flex-col overflow-y-auto">
+      <div className="w-1/2 paper-right relative p-2 sm:p-4 md:p-6 lg:p-8 flex flex-col overflow-y-auto overscroll-contain [-webkit-overflow-scrolling:touch]">
         <div className="absolute inset-0 paper-texture opacity-30"></div>
         
         {/* Decorative corner */}
@@ -43,7 +43,7 @@ export const NewYearWishPage = ({ isActive }: NewYearWishPageProps) => {
           <Heart className="w-5 h-5 sm:w-6 sm:h-6 fill-accent/30" />
         </div>
         
-        <div className="relative z-10 flex flex-col h-full justify-center">
+        <div className="relative z-10 flex flex-col min-h-full justify-center">
           <p className="font-script text-sm sm:text-base md:text-lg lg:text-xl text-diary-ink/80 leading-relaxed text-center mb-4 sm:mb-6">
             2026 mai jata hua ek last time baat sunn lena...Please
           </p>
