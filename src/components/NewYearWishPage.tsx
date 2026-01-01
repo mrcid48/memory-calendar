@@ -35,15 +35,15 @@ export const NewYearWishPage = ({ isActive }: NewYearWishPageProps) => {
       </div>
       
       {/* Right Page */}
-      <div className="w-1/2 paper-right relative p-2 sm:p-4 md:p-6 lg:p-8 flex flex-col overflow-y-auto overscroll-contain [-webkit-overflow-scrolling:touch]">
-        <div className="absolute inset-0 paper-texture opacity-30"></div>
+      <div className="w-1/2 paper-right relative p-2 sm:p-4 md:p-6 lg:p-8 overflow-y-auto overscroll-contain [-webkit-overflow-scrolling:touch]">
+        <div className="absolute inset-0 paper-texture opacity-30 pointer-events-none"></div>
         
         {/* Decorative corner */}
-        <div className="absolute top-4 right-4 text-accent/50">
+        <div className="absolute top-4 right-4 text-accent/50 pointer-events-none">
           <Heart className="w-5 h-5 sm:w-6 sm:h-6 fill-accent/30" />
         </div>
         
-        <div className="relative z-10 flex flex-col min-h-full justify-center">
+        <div className="relative z-10 py-2 sm:py-4">
           <p className="font-script text-sm sm:text-base md:text-lg lg:text-xl text-diary-ink/80 leading-relaxed text-center mb-4 sm:mb-6">
             2026 mai jata hua ek last time baat sunn lena...Please
           </p>
@@ -60,7 +60,7 @@ export const NewYearWishPage = ({ isActive }: NewYearWishPageProps) => {
             Very Happpy New Year Shkachu 💕
           </p>
           
-          <div className="mt-6 sm:mt-8 flex justify-center">
+          <div className="mt-6 sm:mt-8 flex justify-center pb-2">
             <div className="px-4 py-2 border border-diary-gold/30 rounded-lg">
               <p className="font-serif text-xs sm:text-sm text-diary-ink/60 text-center">
                 Swipe to see the back cover →
